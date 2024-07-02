@@ -1,5 +1,3 @@
-1
-
 # New Interior Website
 
 This project showcases a modern and stylish interior design website built using HTML and CSS. It features a responsive design suitable for various screen sizes.
